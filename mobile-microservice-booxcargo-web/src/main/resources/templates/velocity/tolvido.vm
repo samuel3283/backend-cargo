@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Interbank | Confirmaci&oacute;n de ${nombreOperacion}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<style type="text/css">
+			v\:* { behavior: url(#default#VML); display: inline-block; }
+			body{ font-size: 16px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:0px; padding: :0; font-weight: medium;
+			}
+			
+			#cliente-nombre {font-size:  25.37px; font-weight: normal; padding-bottom: 20px;}
+			.content-border{width:620px; border-collapse: collapse; border: #009b3a;}
+			.content{width:620px;border-collapse: collapse;}
+			.resumen-table{display: inline-block;}
+			.resumen-table img{margin-left:-5px; margin-right:10px;}
+			.resumen-superior{ font-size: 24.87px; font-weight: 300; margin:0px; padding: 0px; vertical-align: bottom; width: 245px;}
+			.resumen-inferior { font-size: 36.13px; font-weight: normal; margin: 0px; padding: 0px; vertical-align: top; width: 245px;}
+			.tipo-cambio{ font-size: 10px; font-weight: 500; margin-left: 3px;}
+			.tipo-cambio td{padding-left: 5px; padding-bottom: 13px;}
+			.subresumen-bold{font-size: 15.74px; font-weight: 400;}
+			.subresumen-light{font-size: 15.74px; font-weight: 200; }
+			.detail-table-container{vertical-align: top;}
+			.detail-table-container .detail-table:first-child{margin-right: 20px;}
+			.detail-table{font-size: 13.88px; width: 98%; font-weight: 300; width: 260px; display: inline-block; border: ##eeeeee;}
+			.detail-table strong{font-size: 16.19px; font-weight: 400;}
+			.detail-table td img{vertical-align: middle;}
+			#data-container{padding: 20px 30px 0px 30px;}
+			#white-space{height: 90px;}
+			#long-string{white-space: nowrap;}
+			h2{font-size: 15px; font-weight: 500;margin: 3px; padding-left: 27.3px; }
+			
+			#font-parrafo-etiqueta{
+				-webkit-margin-before:0px;
+				-webkit-margin-after:0px;
+				color:#0039a6;
+				font-size: 14px;
+				width:126px;;
+				word-wrap:break-word;
+				overflow:auto;
+			}
+						
+			#font-parrafo-valor{
+				-webkit-margin-before:0px;
+				-webkit-margin-after:0px;
+				color:#4e4f53;	
+				font-size: 14px;
+				width:134px;
+				word-wrap:break-word;
+				overflow:auto;
+			}
+			#font-etiqueta-codope{
+				-webkit-margin-before:0px;
+				-webkit-margin-after:0px;
+				color:#0039a6;
+				font-size: 13px;
+				width:126px;;
+				word-wrap:break-word;
+				overflow:auto;
+			}						
+			#font-valor-codope{
+				-webkit-margin-before:0px;
+				-webkit-margin-after:0px;
+				color:#4e4f53;	
+				font-size: 13px;
+				width:134px;
+				word-wrap:break-word;
+				overflow:auto;
+			}
+			
+			@media screen and (max-width: 600px){
+				.content{width: 100%;}
+				.content-border{width: 98%;}
+				.resumen-row > td{
+					display: block;
+					width: 100%;
+				}
+				.resumen-table{width: 49.5%;}
+				.resumen-inferior{width: 98%;}
+				.resumen-superior{width: 98%;}
+				.detail-table{
+					margin:0px;
+					width: 100%;
+				}
+				#white-space{
+					height: 80px;
+				}
+			}
+			
+			@media screen and (max-width: 470px){
+				h2{padding-left: 11.51px;}
+				.content, .content-border{width: 100%;}
+				.resumen-row > td{
+					display: block;
+					width: 100%;
+				}
+				.resumen-table{width: 100%;}
+				.resumen-inferior{width: 98%;}
+				.resumen-superior{width: 98%;}
+				.detail-table{
+
+
+					margin:0px;
+					margin-bottom: 15px;
+
+
+					width: 100%;
+				}
+				#data-container{padding: 10px 15px 0px 14.85px;}
+				#white-space{
+					height: 60px;
+				}
+			}
+			
+			@media screen and (max-width: 320px){
+				h2{padding-left: 11.51px;}
+				.content, .content-border{width: 315px;}
+				.resumen-row > td{
+					display: block;
+					width: 100%;
+				}
+				.resumen-inferior{width: 300px;}
+				.resumen-superior{width: 300px;}
+				#data-container{padding: 10px 15px 0px 14.85px;}
+				#white-space{
+					height: 40px;
+				}
+			}
+		</style>
+	</head>
+	
+
+	<body>
+
+	<table align="center" border="0" cellpadding="0" cellspacing="0" class="content-border">
+		
+		<tr>
+			<td style="height: 20px;">&nbsp;</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="content">
+				<tr>
+					<td width="300" height="50" align="center" valign="top">
+						<!--
+					<img src="cid:logo" style="display: block; height: 30px; margin: 0 auto 20px auto; width: 173px" alt="TAXI BOOX" />
+					-->
+					</td>
+				</tr>
+				<tr>
+					<!--
+					<td width="300" align="center" background="cid:sello" style="background-repeat:no-repeat; background-attachment: fixed; background-position: 50% 50%">
+					-->
+					<td width="300" align="center">
+	
+					<table width="298" cellspacing="0" cellpadding="0" style=" border: 1px solid #36c1dc; padding-left:15px; padding-right:15px;">
+						<tr>
+							<td width="268" height="200" align="center" valign="top" style="text-align: center;">
+								<table width="100%" cellspacing="0" cellpadding="0" style="border-spacing: 0; text-align: center;">
+								<tr>
+									<td colspan="2" style="height: 20px;">&nbsp;</td>
+								</tr>
+								<tr style="vertical-align:top;">
+									<td colspan="2" align="center" valign="top" style="color: #00add0; font-size: 18px; width:141px; word-wrap:break-word; overflow:auto;">
+										${nombreOperacion}
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 20px;">&nbsp;</td>
+								</tr>
+								<tr style="vertical-align:top;">
+									<td colspan="2" align="center" valign="top" style="text-align: center; font-size:13px">
+									Bienvenido </td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 10px;">&nbsp;</td>
+								</tr>
+
+								<tr align="center" valign="top">
+									<td colspan="2 style="text-align: left; padding-left:8px; width: 134px;">
+										<span id="font-valor-codope" style="color: #4e4f53; font-size: 13px;">
+										<br>Su clave para recuperar su contraseña es:
+										<br> <b> ${olvido} </b>
+										<br><br>No olvides que debes registrar tus vehiculos de transporte de carga.</span>
+									</td>
+								</tr>
+
+	
+	
+
+								</table>
+						
+						</td>
+						</tr>
+						<tr>
+							<td style="height: 30px;">&nbsp;</td>
+						</tr>
+						</table>
+					</td>
+				</tr>
+			
+			
+				</table>
+			</td>
+		</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: snavarrr
+Build-Jdk: 1.7.0_79
+Implementation-Title: mobile-microservice-booxcargo-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: pe.com.boox.cargo
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
